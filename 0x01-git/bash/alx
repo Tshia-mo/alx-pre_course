@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echO "ALX School is so cool!"
+=======
+echO "ALX School"
+>>>>>>> update_script
